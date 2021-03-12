@@ -198,4 +198,4 @@ batch_size = 256
 1. 最後我將batch_size設定在256,效果明顯比64時好許多
 2. 我大概設定在100上下,發現設的太高或太低,對模型都沒有幫助
 
----
+---# The-Simpsons-Characters-Recognition
